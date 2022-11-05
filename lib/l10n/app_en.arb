@@ -1,0 +1,36 @@
+{
+    "language": "English",
+    "@language":{
+       "description": "The current language"
+    },
+     "offer": "I am a young and developing software engineer, who has the eagerness for problem solving. I also have a very curious mind because of my eagerness to improve and develop myself.  And with this qualities of mine I believe I would be able to increase the productivity and development of your company, and that's not just from my personal effort but also from my interaction with my colleagues, because I am well known for my people skills which help in self development and development.",
+         "@offer":{
+              "description": "my contribution"
+           },
+        "about": "I am mobile app developer enthusiast with fast knowledge in flutter mobile app development with 1 year of experience with UI designs.",
+        "@about":{
+           "description": "About me"
+            },
+                "title": "My Resume",
+                "@title":{
+                   "description": "Title of the app"
+                },
+                    "social": "My socials",
+                      "@social":{
+                           "description": "social media platforms"
+                        },
+
+                         "skill": "My skills",
+                          "@skill":{
+                               "description": "programming skills"
+                            },
+                            "company": "What I can do for your company",
+                              "@company":{
+                                   "description": "what can i do for the company "
+                                },
+                                "contribution": "I am a young and developing software engineer, who has the eagerness for problem solving. I also have a very curious mind because of my eagerness to improve and develop myself.  And with this qualities of mine I believe I would be able to increase the productivity and development of your company, and that's not just from my personal effort but also from my interaction with my colleagues, because I am well known for my people skills which help in self development and development.",
+                                  "@contribution":{
+                                       "description": "my contribution"
+                                    }
+
+}
